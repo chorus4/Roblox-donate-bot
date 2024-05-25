@@ -1,0 +1,2 @@
+RAM_PORT = 7963
+RAM_PASSWORD= "password"
